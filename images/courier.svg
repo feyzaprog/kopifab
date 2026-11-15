@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 560" stroke-linejoin="round" stroke-linecap="round">
+<g stroke="#1b1b1b" stroke-width="4">
+<path d="M70 340H196L204 560H146L134 430L124 560H66Z" fill="#6e7164"/>
+<path d="M216 352H262V462H216Z" fill="#e8d4a8"/>
+<path d="M224 386h30v34h-30z" fill="#fff" stroke-width="3"/>
+<path d="M226 352q8-26 26 0" fill="none"/>
+<!-- badan jaket: bahu membulat -->
+<path d="M64 222Q64 182 104 176H160Q200 182 200 222V350H64Z" fill="#202020"/>
+<path d="M84 250l42-2-2 12-42 2zM150 312l40-2-2 12-40 2z" fill="#fff" stroke="none"/>
+<!-- lengan kanan (tas) -->
+<path d="M180 206L222 282L226 336" fill="none" stroke-width="42"/>
+<path d="M180 206L222 282L226 336" fill="none" stroke="#3e8a3f" stroke-width="34"/>
+<circle cx="227" cy="344" r="17" fill="#8b5a3c"/>
+<!-- lengan kiri (hp) -->
+<path d="M84 206L42 262L56 186" fill="none" stroke-width="42"/>
+<path d="M84 206L42 262L56 186" fill="none" stroke="#3e8a3f" stroke-width="34"/>
+<circle cx="56" cy="172" r="17" fill="#8b5a3c"/>
+<g transform="rotate(-8 57 120)"><rect x="40" y="86" width="34" height="68" rx="6" fill="#fff"/></g>
+<circle cx="56" cy="170" r="14" fill="#8b5a3c" stroke="none"/>
+<!-- leher dan kerah rapi -->
+<path d="M118 150H146V184Q132 196 118 184Z" fill="#8b5a3c"/>
+<path d="M98 178Q132 206 166 178L162 194Q132 218 102 194Z" fill="#3e8a3f"/>
+<!-- wajah -->
+<ellipse cx="132" cy="128" rx="40" ry="38" fill="#8b5a3c"/>
+<!-- helm menempel di kepala -->
+<path d="M88 120C84 72 106 56 132 56C158 56 180 72 176 120Q132 102 88 120Z" fill="#3e8a3f"/>
+<path d="M87 106Q132 88 177 106L176 120Q132 102 88 120Z" fill="#f2efe6"/>
+<path d="M92 120L96 148M172 120L168 148" fill="none"/>
+</g>
+<circle cx="118" cy="132" r="3.8" fill="#1b1b1b"/><circle cx="148" cy="132" r="3.8" fill="#1b1b1b"/>
+<path d="M116 146Q133 162 152 146Q134 150 116 146Z" fill="#fff" stroke="#1b1b1b" stroke-width="3"/>
+</svg>
